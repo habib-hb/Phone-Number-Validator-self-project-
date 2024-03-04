@@ -1,0 +1,9 @@
+body{
+  background-color: black;
+  color: white;
+}
+
+input{
+  display: block;
+  margin-bottom: 8px;
+}
